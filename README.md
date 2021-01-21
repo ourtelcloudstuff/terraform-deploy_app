@@ -10,7 +10,7 @@ Includes "Meow World" website.
 ## Fork from original repo
 https://github.com/ourtelcloudstuff/hashicat-aws
 
-## Nice example of what Sentiel can be use for
+## Nice example of what Sentinel can be use for
 Developers love working in the cloud but sometimes they forget to tag their instances with the right billing and department codes. Karen from finance pays you a visit to see if you can help:
 
 👩🏼‍💼📈 Hello sysadmin, we got a really big AWS bill last month and we have no idea how much we can bill back to the department who requested this stuff. I have a report that is supposed to show this stuff but it only works if everybody tags their resources properly. Can you make sure all your folks are properly tagging their cloud resources?
