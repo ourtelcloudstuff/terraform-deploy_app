@@ -9,8 +9,9 @@ Includes "Meow World" website.
 
 Work with the devops team at Acme Inc. as they go from manual provisioning with Terraform to a fully automated devops workflow with code reviews, testing, and automated provisioning in AWS Cloud. This workshop covers the following topics:
 
-- https://play.instruqt.com/
-- https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/index.html#1 
+- Training Platform: https://play.instruqt.com/
+- Slides: https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/index.html#1 
+- Terraform Cloud: https://app.terraform.io/app/organizations
 
 * Terraform Open Source
 * Terraform Cloud
