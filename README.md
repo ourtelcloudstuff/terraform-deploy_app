@@ -14,6 +14,7 @@ Includes "Meow World" website.
 - Circle CI: https://app.circleci.com/pipelines/github/hashicorp/hashicat-aws 
 - Terraform Cloud with AWS: https://play.instruqt.com/hashicorp/tracks/terraform-cloud-aws
 - Getting started with Instruqt: https://instruqt.com/instruqt/tracks/getting-started-with-instruqt
+- Terraform Certification: https://learn.hashicorp.com/tutorials/terraform/associate-study
 
 # Author
 - Following: https://github.com/rberlind
