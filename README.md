@@ -9,16 +9,16 @@ Includes "Meow World" website.
 
 Work with the devops team at Acme Inc. as they go from manual provisioning with Terraform to a fully automated devops workflow with code reviews, testing, and automated provisioning in AWS Cloud. This workshop covers the following topics:
 
-Terraform Open Source
-Terraform Cloud
-Remote State
-Secure Variable Storage
-Version Control Integration
-Role-based Access Controls
-Sentinel Security Policies
-Collaboration on Changes
-Private Module Registry
-API Driven Workflows
+* Terraform Open Source
+* Terraform Cloud
+* Remote State
+* Secure Variable Storage
+* Version Control Integration
+* Role-based Access Controls
+* Sentinel Security Policies
+* Collaboration on Changes
+* Private Module Registry
+* API Driven Workflows
 
 ## Fork from original repo
 https://github.com/ourtelcloudstuff/hashicat-aws
