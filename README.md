@@ -18,10 +18,13 @@ Developers love working in the cloud but sometimes they forget to tag their inst
 - Sentinel example policies: https://github.com/hashicorp/tfc-workshops-sentinel (I have create a fork)
 
 # Terraform Certification
-https://learn.hashicorp.com/tutorials/terraform/associate-study
+Cert path: https://learn.hashicorp.com/collections/terraform/certification
+Study Guide: https://learn.hashicorp.com/tutorials/terraform/associate-study
 
 All that you need is in the guide. Follow the guide. You are not going to
 find anything different in the exam.
+
+More content on  their YouTube Channel: https://www.youtube.com/channel/UC-AdvAxaagE9W2f0webyNUQ
 
 # Resources
 - Slide for AWS, Azure and GCP examples: https://kseniiaryuma.github.io/TFC4BonAWS/#1
