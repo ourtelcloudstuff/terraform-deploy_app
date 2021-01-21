@@ -55,6 +55,8 @@ More content on  their YouTube Channel: https://www.youtube.com/channel/UC-AdvAx
 - Circle CI: https://app.circleci.com/pipelines/github/hashicorp/hashicat-aws 
 - Terraform Cloud with AWS: https://play.instruqt.com/hashicorp/tracks/terraform-cloud-aws
 - Getting started with Instruqt: https://instruqt.com/instruqt/tracks/getting-started-with-instruqt
+- API Docs Create a Variable: https://www.terraform.io/docs/cloud/api/variables.html#create-a-variable
+- API Docs Create a Run: https://www.terraform.io/docs/cloud/api/run.html#create-a-run
 
 # Author
 - Following: https://github.com/rberlind
