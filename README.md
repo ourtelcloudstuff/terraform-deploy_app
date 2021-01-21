@@ -28,7 +28,9 @@ Developers love working in the cloud but sometimes they forget to tag their inst
 
 👩🏼‍💼📈 Hello sysadmin, we got a really big AWS bill last month and we have no idea how much we can bill back to the department who requested this stuff. I have a report that is supposed to show this stuff but it only works if everybody tags their resources properly. Can you make sure all your folks are properly tagging their cloud resources?
 
-- Sentinel example policies: https://github.com/hashicorp/tfc-workshops-sentinel (I have create a fork)
+- Sentinel example policies: 
+-- https://github.com/hashicorp/tfc-workshops-sentinel (I have create a fork)
+-- https://github.com/hashicorp/terraform-guides/tree/master/governance/third-generation
 
 # Terraform Certification
 Cert path: https://learn.hashicorp.com/collections/terraform/certification
