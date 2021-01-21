@@ -45,6 +45,7 @@ More content on  their YouTube Channel: https://www.youtube.com/channel/UC-AdvAx
   https://github.com/hashicorp/hashicat-gcp
   https://github.com/hashicorp/hashicat-aws
   https://github.com/hashicorp/hashicat-azure
+  https://github.com/hashicorp/terraform-guides
 - Circle CI: https://app.circleci.com/pipelines/github/hashicorp/hashicat-aws 
 - Terraform Cloud with AWS: https://play.instruqt.com/hashicorp/tracks/terraform-cloud-aws
 - Getting started with Instruqt: https://instruqt.com/instruqt/tracks/getting-started-with-instruqt
