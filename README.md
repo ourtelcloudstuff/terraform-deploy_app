@@ -17,6 +17,12 @@ Developers love working in the cloud but sometimes they forget to tag their inst
 
 - Sentinel example policies: https://github.com/hashicorp/tfc-workshops-sentinel (I have create a fork)
 
+# Terraform Certification
+https://learn.hashicorp.com/tutorials/terraform/associate-study
+
+All that you need is in the guide. Follow the guide. You are not going to
+find anything different in the exam.
+
 # Resources
 - Slide for AWS, Azure and GCP examples: https://kseniiaryuma.github.io/TFC4BonAWS/#1
 - Git Hub Code: 
@@ -26,7 +32,6 @@ Developers love working in the cloud but sometimes they forget to tag their inst
 - Circle CI: https://app.circleci.com/pipelines/github/hashicorp/hashicat-aws 
 - Terraform Cloud with AWS: https://play.instruqt.com/hashicorp/tracks/terraform-cloud-aws
 - Getting started with Instruqt: https://instruqt.com/instruqt/tracks/getting-started-with-instruqt
-- Terraform Certification: https://learn.hashicorp.com/tutorials/terraform/associate-study
 
 # Author
 - Following: https://github.com/rberlind
